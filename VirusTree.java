@@ -1,12 +1,4 @@
 
-/* NetId(s): sg926, bab359
-
- * Name(s): David Gries
- * What I thought about this assignment:
- * This assignment taught us what trees are and helped us learn how to do recursions on trees.
- * It took us very long to do stepwise refinement effectively for all the functions,
- * but it taught us a lot.
- */
 
 import java.util.HashMap;
 import java.util.HashSet;
